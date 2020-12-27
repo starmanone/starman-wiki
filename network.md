@@ -11,6 +11,5 @@
 
 ## Online tools
 
-*
-
-*
+* Ip tools - [Ipvoid](https://www.ipvoid.com/)
+* Ripe network - [Ripe](https://www.ripe.net/)

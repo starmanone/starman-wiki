@@ -25,6 +25,8 @@
 
 * Cryptographic operations - [CyberChef](https://gchq.github.io/CyberChef/)
 
+* Online malware sandbox - [Anyrun](https://any.run/)
+
 ## Information
 
 * CVE - [CVE Details](https://www.cvedetails.com/)
@@ -35,11 +37,15 @@
 
 * News - [Cyware](https://cyware.com/cyber-security-news-articles/)
 
+* Kaspersky live threat map - [Cybermap](https://cybermap.kaspersky.com/)
+
 ## Browser utility
 
 * Browser info explorer - [Browserleakes](https://browserleaks.com/)
 
 * Browser fingerprint test - [AmIUnique](https://amiunique.org/)
+
+* UserAgent collection and parser - [WhatIsMyBrowser](https://developers.whatismybrowser.com/useragents/)
 
 ## Malware info
 
