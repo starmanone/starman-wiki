@@ -1,9 +1,14 @@
-# starman-wiki
+# 🌎 starman-wiki 🌑
 
-Just a repo of useful resources divided by topic
+## Just a repo of useful resources divided by topic
 
-Start from index.md or interesting topic
+## Start from here or interesting topic
 
-Hope this is helpful
+## Hope this is helpful
+</br>
 
-🌎 🚀 🌑
+# The index: 🚀 
+
+## [develop](develop.md)
+## [network](network.md)
+## [security](security.md)
