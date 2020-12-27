@@ -1,10 +1,10 @@
 # 🌎 starman-wiki 🌑
 
-## Just a repo of useful resources divided by topic
+### Just a repo of useful resources divided by topic
 
-## Start from here or interesting topic
+### Start from here or interesting topic
 
-## Hope this is helpful
+### Hope this is helpful
 </br>
 
 # The index: 🚀 
