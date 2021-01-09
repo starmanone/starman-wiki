@@ -8,7 +8,7 @@
 ## Raspberry pi 4
 | Description | Link |
 |:-----|:-----|
-| [Installing Docker and Docker Compose](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)|
+| Installing Docker and Docker Compose	| [Blog post](https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl)|
 | DNS and filtering | [Pihole](https://pi-hole.net/)|
 | VPN | [Pivpn](https://www.pivpn.io/)|
 | App deployer | [Yuno host](https://yunohost.org/#/)|
