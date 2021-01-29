@@ -5,6 +5,13 @@
 | Server setup | [Server World](https://www.server-world.info/en/)|
 <br />
 
+## Cloud computing
+| Description | Link |
+|:-----|:-----|
+| OS-level virtualization | [Docker](https://www.docker.com/)
+| Container orchestration engine | [kubernetes](https://kubernetes.io/)
+<br />
+
 ## Raspberry pi 4
 | Description | Link |
 |:-----|:-----|
@@ -17,6 +24,7 @@
 ## Self hosted app
 | Description | Link |
 |:-----|:-----|
+| Personal cloud | [Owncloud](https://owncloud.com/)|
 | Personal cloud | [Nextcloud](https://nextcloud.com/)|
 | Password manager | [Bitwarden](https://bitwarden.com/)|
 <br />

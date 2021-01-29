@@ -5,13 +5,21 @@
 | [Dev.to](https://dev.to/)| 
 <br />
 
-## Free hosting
-| Link |
-|:-----|
-| [Netlify](https://www.netlify.com/)|
-| [Heroku](https://www.heroku.com/)|
-| [Firebase](https://firebase.google.com/)|
-| [Python-any-where](https://www.pythonanywhere.com/)|
+## Hosting services
+| Description | Link |
+|:-----|:-----|
+| Cloud computing | [Netlify](https://www.netlify.com/)|
+| Platform as a service | [Heroku](https://www.heroku.com/)|
+| Sviluppo e web hosting | [Python-any-where](https://www.pythonanywhere.com/)|
+| Mobile app services | [Firebase](https://firebase.google.com/)|
+<br />
+
+## Websites
+| Description | Link |
+|:-----|:-----|
+| Static site generator | [Jekyll](https://jekyllrb.com/)|
+| Static site generator | [Hugo](https://gohugo.io/)|
+| Blog platform | [Gost](https://ghost.org/)|
 <br />
 
 ## Data science, Machine Learning & AI
