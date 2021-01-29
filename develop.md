@@ -10,7 +10,7 @@
 |:-----|:-----|
 | Cloud computing | [Netlify](https://www.netlify.com/)|
 | Platform as a service | [Heroku](https://www.heroku.com/)|
-| Sviluppo e web hosting | [Python-any-where](https://www.pythonanywhere.com/)|
+| Python web hosting | [Python-any-where](https://www.pythonanywhere.com/)|
 | Mobile app services | [Firebase](https://firebase.google.com/)|
 <br />
 
