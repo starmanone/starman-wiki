@@ -32,14 +32,6 @@
 | Kaspersky live threat map | [Cybermap](https://cybermap.kaspersky.com/)|
 <br />
 
-## Browser utility
-| Description | Link |
-|:-----|:-----|
-| Browser info explorer | [Browserleakes](https://browserleaks.com/)|
-| Browser fingerprint test | [AmIUnique](https://amiunique.org/)|
-|UserAgent collection and parser | [WhatIsMyBrowser](https://developers.whatismybrowser.com/useragents/)|
-<br />
-
 ## Malware info
 | Description | Link |
 |:-----|:-----|
