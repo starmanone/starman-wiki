@@ -2,12 +2,13 @@
 ## OSINT
 | Description | Link |
 |:-----|:-----|
-|Threat intelligence | [IBM Xcloud](https://exchange.xforce.ibmcloud.com/)|
-|Threat intelligence | [Cisco Talos](https://talosintelligence.com/)|
-|Ip reputation | [AbuseIP](https://www.abuseipdb.com/)|
-|Url reputation | [URLhause](https://urlhaus.abuse.ch/browse/)|
-|Phishing reputation | [PhishTank](http://phishtank.org/index.php)|
-|Files info | [File.net](https://www.file.net/)|
+| Threat intelligence | [IBM Xcloud](https://exchange.xforce.ibmcloud.com/)|
+| Threat intelligence | [Cisco Talos](https://talosintelligence.com/)|
+| Ip reputation | [AbuseIP](https://www.abuseipdb.com/)|
+| Url reputation | [URLhause](https://urlhaus.abuse.ch/browse/)|
+| Phishing reputation | [PhishTank](http://phishtank.org/index.php)|
+| Files info | [File.net](https://www.file.net/)|
+| Internet tools | [Infobyip](https://www.infobyip.com/internettools.php)
 <br />
 
 ## Online tools & scanner

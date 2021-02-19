@@ -5,7 +5,7 @@
 | [Dev.to](https://dev.to/)| 
 <br />
 
-## Hosting services
+## Free hosting services
 | Description | Link |
 |:-----|:-----|
 | Cloud computing | [Netlify](https://www.netlify.com/)|
@@ -14,12 +14,12 @@
 | Mobile app services | [Firebase](https://firebase.google.com/)|
 <br />
 
-## Websites
+## Websites framework
 | Description | Link |
 |:-----|:-----|
 | Static site generator | [Jekyll](https://jekyllrb.com/)|
 | Static site generator | [Hugo](https://gohugo.io/)|
-| Blog platform | [Gost](https://ghost.org/)|
+| Blog platform | [Ghost](https://ghost.org/)|
 <br />
 
 ## Data science, Machine Learning & AI
@@ -31,6 +31,7 @@
 | ML library | [Scikit-learn](https://scikit-learn.org/)|
 | ML visualization library | [Bokeh](https://docs.bokeh.org/en/latest/index.html)|
 | ML visualization library | [Matplotlib](https://matplotlib.org/)|
+| Natural language understanding platform | [Dialogflow](https://dialogflow.cloud.google.com/)|
 <br />
 
 ## Useful

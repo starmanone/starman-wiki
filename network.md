@@ -34,3 +34,4 @@
 |:-----|:-----|
 | Ip tools | [Ipvoid](https://www.ipvoid.com/)|
 | Ripe network | [Ripe](https://www.ripe.net/)|
+| Domain and IP bulk lookup tool | [Infobyip](https://www.infobyip.com/ipbulklookup.php)|
