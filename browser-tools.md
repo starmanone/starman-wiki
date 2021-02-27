@@ -14,5 +14,8 @@
 | Server info and location | [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)|
 | Ad block | [uBlock Origin ](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
 | Webpage translate | [Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web)|
-| Cookie delete | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+| Cookie delete | [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|
+| Local CDN emulation | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)|
+| Dark Reader | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)|
+| Identify technologies on websites | [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|
 <br />
